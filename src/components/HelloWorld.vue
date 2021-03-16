@@ -1,5 +1,7 @@
 <template>
-  <h1 class="background">hallo</h1>
+  <div class="Main bg-gray-800 min-h-screen">
+    <h1 class="text-yellow-300 font-bold">Working tailwind and vue app</h1>
+  </div>
 </template>
 
 <script setup></script>
